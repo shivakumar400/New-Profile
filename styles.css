@@ -102,6 +102,21 @@ p {
 
 }
 
+.topP {
+
+    color: darkcyan;
+    border-width: 5px;
+    border-radius: 20px;
+    width: 400px;
+    height: 30px;
+    padding: 5px 0 5px 0;
+    background-color: rgb(180, 249, 220);
+    position: relative;
+    margin-left: 425px;
+    margin-top: 40px;
+
+}
+
 .profile {
 
     position: relative;
